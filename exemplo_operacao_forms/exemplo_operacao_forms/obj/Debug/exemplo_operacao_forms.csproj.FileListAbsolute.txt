@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\bin\Debug\exemplo_operacao_forms.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\bin\Debug\exemplo_operacao_forms.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\bin\Debug\exemplo_operacao_forms.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\obj\Debug\exemplo_operacao_forms.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\obj\Debug\exemplo_operacao_forms.Form1.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\obj\Debug\exemplo_operacao_forms.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\obj\Debug\exemplo_operacao_forms.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\obj\Debug\exemplo_operacao_forms.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_operacao_forms\exemplo_operacao_forms\obj\Debug\exemplo_operacao_forms.pdb

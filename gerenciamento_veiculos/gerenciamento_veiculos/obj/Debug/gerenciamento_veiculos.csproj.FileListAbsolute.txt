@@ -1,0 +1,12 @@
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\bin\Debug\gerenciamento_veiculos.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\bin\Debug\gerenciamento_veiculos.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\bin\Debug\gerenciamento_veiculos.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\obj\Debug\gerenciamento_veiculos.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\obj\Debug\gerenciamento_veiculos.Form1.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\obj\Debug\gerenciamento_veiculos.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\obj\Debug\gerenciamento_veiculos.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\obj\Debug\gerenciamento_veiculos.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\gerenciamento_veiculos\gerenciamento_veiculos\obj\Debug\gerenciamento_veiculos.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\gerenciamento_veiculos\gerenciamento_veiculos\bin\Debug\gerenciamento_veiculos.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\gerenciamento_veiculos\gerenciamento_veiculos\obj\Debug\gerenciamento_veiculos.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\gerenciamento_veiculos\gerenciamento_veiculos\obj\Debug\gerenciamento_veiculos.pdb

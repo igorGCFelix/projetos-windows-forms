@@ -1,0 +1,16 @@
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\bin\Debug\controle_hotel.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\bin\Debug\controle_hotel.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\bin\Debug\controle_hotel.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.Splash.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.cadastrar.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.home.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.login_cadastro.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\controle_hotel\controle_hotel\obj\Debug\controle_hotel.login_funcionario.resources
+C:\Users\igorf\Desktop\school-2ds\ds\exercicios\controle_hotel\controle_hotel\obj\Debug\controle_hotel.exe
+C:\Users\igorf\Desktop\school-2ds\ds\exercicios\controle_hotel\controle_hotel\obj\Debug\controle_hotel.pdb

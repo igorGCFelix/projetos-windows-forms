@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\bin\Debug\exemplo_if_else_forms.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\bin\Debug\exemplo_if_else_forms.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\bin\Debug\exemplo_if_else_forms.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\obj\Debug\exemplo_if_else_forms.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\obj\Debug\exemplo_if_else_forms.Form1.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\obj\Debug\exemplo_if_else_forms.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\obj\Debug\exemplo_if_else_forms.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\obj\Debug\exemplo_if_else_forms.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_if_else_forms\exemplo_if_else_forms\obj\Debug\exemplo_if_else_forms.pdb

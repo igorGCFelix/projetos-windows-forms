@@ -1,0 +1,6 @@
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exercicio1\exercicio1\obj\Debug\exercicio1.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exercicio1\exercicio1\obj\Debug\exercicio1.pdb

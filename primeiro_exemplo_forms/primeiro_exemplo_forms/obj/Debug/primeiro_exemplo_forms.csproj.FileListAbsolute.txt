@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\bin\Debug\primeiro_exemplo_forms.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\bin\Debug\primeiro_exemplo_forms.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\bin\Debug\primeiro_exemplo_forms.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\obj\Debug\primeiro_exemplo_forms.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\obj\Debug\primeiro_exemplo_forms.Form1.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\obj\Debug\primeiro_exemplo_forms.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\obj\Debug\primeiro_exemplo_forms.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\obj\Debug\primeiro_exemplo_forms.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\primeiro_exemplo_forms\primeiro_exemplo_forms\obj\Debug\primeiro_exemplo_forms.pdb

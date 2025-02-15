@@ -1,0 +1,12 @@
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\bin\Debug\exemplo_encapsulamento.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\bin\Debug\exemplo_encapsulamento.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\bin\Debug\exemplo_encapsulamento.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\obj\Debug\exemplo_encapsulamento.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\obj\Debug\exemplo_encapsulamento.Form1.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\obj\Debug\exemplo_encapsulamento.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\obj\Debug\exemplo_encapsulamento.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\obj\Debug\exemplo_encapsulamento.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\aula\exemplo_encapsulamento\exemplo_encapsulamento\obj\Debug\exemplo_encapsulamento.pdb
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_encapsulamento\exemplo_encapsulamento\bin\Debug\exemplo_encapsulamento.exe.config
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_encapsulamento\exemplo_encapsulamento\obj\Debug\exemplo_encapsulamento.exe
+C:\Users\ds-etim-2\Desktop\school-2ds\ds\exercicios\exemplo_encapsulamento\exemplo_encapsulamento\obj\Debug\exemplo_encapsulamento.pdb

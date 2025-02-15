@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D41FDDDA-EC2F-4E4D-8FBA-FB7063C51096}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>controle_hotel</RootNamespace>
+    <AssemblyName>controle_hotel</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AlphaBlendTextBox">
+      <HintPath>..\AlphaBlendTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cadastrar_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastrar_clientes.Designer.cs">
+      <DependentUpon>cadastrar_clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastrar_funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastrar_funcionario.Designer.cs">
+      <DependentUpon>cadastrar_funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastro_quartos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastro_quartos.Designer.cs">
+      <DependentUpon>cadastro_quartos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="controle_quartos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="controle_quartos.Designer.cs">
+      <DependentUpon>controle_quartos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_cadastro.Designer.cs">
+      <DependentUpon>login_cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_funcionario.Designer.cs">
+      <DependentUpon>login_funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="operacao_realizada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="operacao_realizada.Designer.cs">
+      <DependentUpon>operacao_realizada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pesquisar_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pesquisar_cliente.Designer.cs">
+      <DependentUpon>pesquisar_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reserva_quartos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reserva_quartos.Designer.cs">
+      <DependentUpon>reserva_quartos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="cadastrar_clientes.resx">
+      <DependentUpon>cadastrar_clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastrar_funcionario.resx">
+      <DependentUpon>cadastrar_funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastro_quartos.resx">
+      <DependentUpon>cadastro_quartos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controle_quartos.resx">
+      <DependentUpon>controle_quartos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_cadastro.resx">
+      <DependentUpon>login_cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_funcionario.resx">
+      <DependentUpon>login_funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="operacao_realizada.resx">
+      <DependentUpon>operacao_realizada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pesquisar_cliente.resx">
+      <DependentUpon>pesquisar_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reserva_quartos.resx">
+      <DependentUpon>reserva_quartos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txt_input_vazia.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txt_input_vazia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txt_input_vazia.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
